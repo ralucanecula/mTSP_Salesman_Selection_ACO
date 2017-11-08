@@ -4,3 +4,5 @@ which considers the minimization of the longest tour, and the bi-objective mTSP,
 and 2) work balancing {which amounts to minimizing the amplitude of the costs of individual tours). The aim is to examine the correlation between the mechanism employed
 to select the salesman during the tour construction phase, and the quality of obtained solutions. 
 Also, this repository includes the data set, containing the considered mTSP instances used in the experimental study. 
+Version: 1.0
+Contact: necula dot raluca at gmail dot com
